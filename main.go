@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Felixoid/module-dependency-example/structure"
+	"github.com/Felixoid/module-dependency-example/v2/structure"
 )
 
 func main() {
